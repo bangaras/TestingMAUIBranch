@@ -1,1 +1,0 @@
-G:\KeyIdeas Work\MaxTool_MAUI\MaxTool_MAUI\MaxTool_MAUI.csproj;x64
