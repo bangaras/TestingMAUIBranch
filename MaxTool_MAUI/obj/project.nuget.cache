@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lovoMDPfoEAFnItacixO+Zg240mueZZySdsNAa5UzYEIiJnTnuukgseMERwWRDTnRarXMcSY3Ew7d4pt15lj6Q==",
+  "dgSpecHash": "aMKPyQJfajtZx9yka8iQeV1LEHsSR109BnwZC/J7nSnIcUP1wYfhC9xble95W9G1zeLaLYs5Fd5nxuMWjdPNuw==",
   "success": true,
-  "projectFilePath": "G:\\KeyIdeas Work\\MaxTool_Blazor\\MaxTool_MAUI\\MaxTool_MAUI\\MaxTool_MAUI.csproj",
+  "projectFilePath": "G:\\KeyIdeas Work\\MaxTool_MAUI\\MaxTool_MAUI\\MaxTool_MAUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abhis\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\abhis\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

@@ -1,1 +1,1 @@
-G:\KeyIdeas Work\MaxTool_Blazor\MaxTool_MAUI\MaxTool_MAUI\MaxTool_MAUI.csproj;x64
+G:\KeyIdeas Work\MaxTool_MAUI\MaxTool_MAUI\MaxTool_MAUI.csproj;x64

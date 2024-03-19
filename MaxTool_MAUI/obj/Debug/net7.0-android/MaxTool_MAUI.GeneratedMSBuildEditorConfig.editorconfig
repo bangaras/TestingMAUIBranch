@@ -12,33 +12,33 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = MaxTool_MAUI
-build_property.ProjectDir = G:\KeyIdeas Work\MaxTool_Blazor\MaxTool_MAUI\MaxTool_MAUI\
+build_property.ProjectDir = G:\KeyIdeas Work\MaxTool_MAUI\MaxTool_MAUI\
 
-[G:/KeyIdeas Work/MaxTool_Blazor/MaxTool_MAUI/MaxTool_MAUI/App.xaml]
+[G:/KeyIdeas Work/MaxTool_MAUI/MaxTool_MAUI/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MaxTool_MAUI.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[G:/KeyIdeas Work/MaxTool_Blazor/MaxTool_MAUI/MaxTool_MAUI/AppShell.xaml]
+[G:/KeyIdeas Work/MaxTool_MAUI/MaxTool_MAUI/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MaxTool_MAUI.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[G:/KeyIdeas Work/MaxTool_Blazor/MaxTool_MAUI/MaxTool_MAUI/MainPage.xaml]
+[G:/KeyIdeas Work/MaxTool_MAUI/MaxTool_MAUI/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MaxTool_MAUI.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[G:/KeyIdeas Work/MaxTool_Blazor/MaxTool_MAUI/MaxTool_MAUI/Resources/Styles/Colors.xaml]
+[G:/KeyIdeas Work/MaxTool_MAUI/MaxTool_MAUI/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MaxTool_MAUI.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[G:/KeyIdeas Work/MaxTool_Blazor/MaxTool_MAUI/MaxTool_MAUI/Resources/Styles/Styles.xaml]
+[G:/KeyIdeas Work/MaxTool_MAUI/MaxTool_MAUI/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MaxTool_MAUI.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

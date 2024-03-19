@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\KeyIdeas Work\\MaxTool_Blazor\\MaxTool_MAUI\\MaxTool_MAUI\\MaxTool_MAUI.csproj": {}
+    "G:\\KeyIdeas Work\\MaxTool_MAUI\\MaxTool_MAUI\\MaxTool_MAUI.csproj": {}
   },
   "projects": {
-    "G:\\KeyIdeas Work\\MaxTool_Blazor\\MaxTool_MAUI\\MaxTool_MAUI\\MaxTool_MAUI.csproj": {
+    "G:\\KeyIdeas Work\\MaxTool_MAUI\\MaxTool_MAUI\\MaxTool_MAUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\KeyIdeas Work\\MaxTool_Blazor\\MaxTool_MAUI\\MaxTool_MAUI\\MaxTool_MAUI.csproj",
+        "projectUniqueName": "G:\\KeyIdeas Work\\MaxTool_MAUI\\MaxTool_MAUI\\MaxTool_MAUI.csproj",
         "projectName": "MaxTool_MAUI",
-        "projectPath": "G:\\KeyIdeas Work\\MaxTool_Blazor\\MaxTool_MAUI\\MaxTool_MAUI\\MaxTool_MAUI.csproj",
+        "projectPath": "G:\\KeyIdeas Work\\MaxTool_MAUI\\MaxTool_MAUI\\MaxTool_MAUI.csproj",
         "packagesPath": "C:\\Users\\abhis\\.nuget\\packages\\",
-        "outputPath": "G:\\KeyIdeas Work\\MaxTool_Blazor\\MaxTool_MAUI\\MaxTool_MAUI\\obj\\",
+        "outputPath": "G:\\KeyIdeas Work\\MaxTool_MAUI\\MaxTool_MAUI\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
